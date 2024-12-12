@@ -1,0 +1,18 @@
+:root {
+  
+}
+.label{
+  color: azure;
+}
+.table{
+  margin-top: 5rem;
+  width: 70%;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid black; /* Bordes alrededor de cada celda */
+  padding: 8px; /* Espaciado dentro de las celdas */
+  text-align: left; /* Alineación del texto */
+}
